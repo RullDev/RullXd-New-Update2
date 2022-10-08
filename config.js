@@ -6,16 +6,16 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6285380166282', '️One', true],
-  ['6285380166282', '️Two', true],
-  ['6285380166282', '️Three', true],
-  ['6285380166282', '️Four', true],
-  ['6285380166282', '️Five', true],
-  ['6285380166282', '️Six', true],
-  ['6285380166282', '️Seven', true],
-  ['6285380166282', '️Eight', true],
-  ['6285380166282', '️Nine', true],
-  ['6285380166282', '️Teen', true]
+  ['6287753812675', '️One', true],
+  ['6287753812675', '️Two', true],
+  ['6287753812675', '️Three', true],
+  ['6287753812675', '️Four', true],
+  ['6287753812675', '️Five', true],
+  ['6287753812675', '️Six', true],
+  ['6287753812675', '️Seven', true],
+  ['6287753812675', '️Eight', true],
+  ['6287753812675', '️Nine', true],
+  ['6287753812675', '️Teen', true]
 ]
 global.mods = []
 global.prems = []
@@ -392,13 +392,13 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 
 /*Link*/
-global.sig = 'https://www.instagram.com/kahfiofc0'
-global.sgh = 'https://www.github.com/Maxxy-Md'
+global.sig = 'https://www.instagram.com/kadung_bawel36'
+global.sgh = 'https://www.github.com/https://github.com/RullDev/Rull-MD'
 global.sgc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
 global.sdc = ''
-global.snh = 'https://www.tiktok.com/@maxxy_0t'
-global.sfb = 'https://www.facebook.com/kahfiofc'
-global.syt = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
+global.snh = 'https://www.tiktok.com/@khoirul_78'
+global.sfb = 'https://www.facebook.com/khoirulXJr'
+global.syt = 'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw'
 
 /*Nsfw*/
 global.optsnsfw = true
@@ -439,32 +439,32 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 乂 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ ᴹᵃᵈᵉᵂⁱᵗʰᴷʰʳˡᴹˢᵗᶠᵃ 乂 𝙍𝙪𝙡𝙡𝘽𝙊𝙏\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 乂 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
+global.author = 'ᴹᵃᵈᵉᵂⁱᵗʰᴷʰʳˡᴹˢᵗᶠᵃ 乂 𝙍𝙪𝙡𝙡𝘽𝙊𝙏'
 global.multiplier = 10
 
 /*Pesan*/
 global.eror = '*ᴇʀᴏʀʀ!*'
 global.wait = '*ᴡᴀɪᴛ!*'
 global.render = '*ʀᴇɴᴅᴇʀ!*'
-global.webs = 'https://lynk.id/kahfi.xd'
+global.webs = 'https://saweria.com/RullZY'
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 global.gcwangsaf = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
 
 /*Donasi*/
-global.saweria = 'https://saweria.co/MaxxyBotz'
-global.dana = '085380166282'
-global.pulsa = '085295374964'
+global.saweria = 'https://saweria.co/RullZY'
+global.dana = '087753812675'
+global.pulsa = '087753812675'
 global.trakteer = ''
 global.paypal = ''
 global.gopay = ''
-global.pdana = '085380166282'
+global.pdana = '087753812675'
 global.povo = ''
 global.pgopay = ''
-global.ppulsa = '085295374964'
-global.ppulsa2 = '085295374964'
-global.psaweria = 'https://saweria.com/MaxxyBotz'
+global.ppulsa = '087753812675'
+global.ppulsa2 = '087753812675'
+global.psaweria = 'https://saweria.com/RullZY'
 
 /*Emoji*/
 global.rpg = {
