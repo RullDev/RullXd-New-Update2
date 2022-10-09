@@ -89,15 +89,15 @@ global.xckey = '7iyNa0qA'
 */
 
 /*Number*/
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.namebot = '𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
+global.nomorbot = '6287753812675'
+global.nomorown = '6287753812675'
+global.namebot = '𝙍𝙪𝙡𝙡𝘽𝙊𝙏'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
 /*Watermark*/
-global.wm = '                「 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 あ⁩ 」'
+global.wm = '                「 𝙔𝙩 𝙍𝙪𝙡𝙡𝙕𝙔 あ⁩ 」'
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
+global.wm3 = '⫹⫺ 𝙔𝙩 𝙍𝙪𝙡𝙡𝙕𝙔 '
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
