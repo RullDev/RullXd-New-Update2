@@ -95,7 +95,7 @@ global.namebot = '𝙍𝙪𝙡𝙡𝘽𝙊𝙏'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
 /*Watermark*/
-global.wm = '                「 𝙔𝙩 𝙍𝙪𝙡𝙡𝙕𝙔 あ⁩ 」'
+global.wm = '                「 𝙍𝙪𝙡𝙡𝘽𝙊𝙏 あ⁩ 」'
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ 𝙔𝙩 𝙍𝙪𝙡𝙡𝙕𝙔 '
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -450,7 +450,7 @@ global.wait = '*ᴡᴀɪᴛ!*'
 global.render = '*ʀᴇɴᴅᴇʀ!*'
 global.webs = 'https://saweria.com/RullZY'
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
-global.gcwangsaf = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
+global.gcwangsaf = 'https://chat.whatsapp.com/D2NUDa6vk4I6hrS176mErV'
 
 /*Donasi*/
 global.saweria = 'https://saweria.co/RullZY'
